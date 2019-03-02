@@ -1,0 +1,17 @@
+React 
+Version1.0
+What is React
+JavaScript framework for creating user interfaces
+Full single page web applications
+Just Certain parts of a website*(like a search form
+Component based
+Very fast (thanks to the virtual DPM)
+Created by Facebook
+
+React is component based
+JavaScript compents
+Write it in all these in javascript( actually writing in jsx ) combines javascript and html
+Search component
+Directory component
+Signup component
+When required in the browser React adds them to the dom
